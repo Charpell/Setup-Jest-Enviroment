@@ -1,0 +1,12 @@
+{
+  "name": "setup-jest-math",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
